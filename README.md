@@ -61,7 +61,7 @@ Works the same in pandas (`pd.read_parquet`), Polars, Spark, R, or any BI tool.
 | Full vendor registry (895,932 entities) | — | ✓ |
 | Data dictionary | ✓ | ✓ |
 
-**[→ Get the full Q3 2026 dataset — $49 (launch price)](https://gumroad.com/l/YOUR-PRODUCT)**
+**[→ Get the full Q3 2026 dataset — $49 (launch price)]([https://gumroad.com/l/YOUR-PRODUCT](https://peoplx.gumroad.com/l/Federal-Procurement-Dataset))**
 
 ## Why this exists
 
